@@ -1,0 +1,185 @@
+.containarfull{
+    width: 100%;
+    display: flex;
+    /* background-color: yellow; */
+}
+.containaarside{
+    width: 25%;
+    /* background-color: aquamarine; */
+}
+
+.containar{
+    width: 75%;
+    height: 745px;
+    /* background-color: aliceblue; */
+    /* position: absolute;
+    left: 25%; */
+    overflow-x: hidden;
+    position: relative;
+    /* background-color: aqua; */
+    
+    
+}
+.containarhead{
+    height: 70px;
+    /* background-color: aqua; */
+    margin: 15px;
+    border-bottom: 1px solid;
+    display: flex;
+}
+.prof{
+    font-size: 26px;
+    padding: 15px;
+    /* margin-right: 0; */
+    font-style: italic;
+}
+.prof1{
+    font-size: 26px;
+    display: flex;
+    position: fixed;
+  right: 40px;
+  padding: 15px;
+  font-style: italic;
+  /* bottom: 0; */
+}
+.nnn{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin: 7px;
+}
+.containar2{
+    display: flex;
+}
+.containarside{
+    width: 45%;
+    height: 630px;
+    /* background-color: aquamarine; */
+    margin: 6px;
+    border-right:2px solid ;
+}
+.containarright{
+    width: 55%;
+    height: 630px;
+    /* background-color: rgb(12, 13, 13); */
+    margin: 6px;
+}
+.mnn{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    position: relative;
+    left: 120px;
+    top: 30px;
+}
+.naame{
+    position: relative;
+    top: 40px;
+    left: 140px;
+}
+.details{
+    width: 80%;
+    height: 200px;
+    position: relative;
+    top: 40px;
+    left: 70px;
+    border-bottom: 1px solid;
+    /* background-color: antiquewhite; */
+    padding-left: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size:16px;
+    
+}
+
+.labels{
+    display: flex;
+
+}
+.tests{
+    position: relative;
+    right: 35px;
+    width: 120px;
+    color: gray;
+    font-size: 20px;
+}
+.tests1{
+    position: relative;
+    right: 55px;
+    color: gray;
+}
+.tests2{
+    position: relative;
+    right: 35px;
+    font-weight: bold;
+    font-size: 16px;
+}
+.details2{
+    width: 80%;
+    height: 170px;
+    /* background-color: blue; */
+    position: relative;
+    top: 50px;
+    left: 70px;
+}
+.labels1{
+    display: flex;
+
+}
+.testss{
+    position: relative;
+    left: 20px;
+    width: 120px;
+    color: gray;
+    font-size: 20px;
+}
+.testss1{
+    position: relative;
+    left: 20px;
+    color: gray;
+}
+.testss2{
+    position: relative;
+    left: 30px;
+    font-weight: bold;
+    font-size: 16px;
+}
+.Address{
+    height: 260px;
+    /* background-color: rgb(8, 48, 48); */
+}
+.AD{
+    padding: 20px;
+}
+.rightr{
+    position: relative;
+    left: 70px;
+    bottom: 10px;
+}
+.map{
+    height: 300px;
+    width: 90%;
+    margin-left: 30px;
+    margin-right: 20px;
+    /* background-color: brown; */
+}
+.map1{
+    width: 100%;
+}
+.testsss1{
+    position: relative;
+    right: 20px;
+    color: gray;
+}
+.testsss2{
+    position: relative;
+    right: 13px;
+    font-weight: bold;
+    font-size: 16px;
+}
+.oopen{
+     position: absolute; 
+     top: 0;
+    right: 0;
+    z-index: 9;
+}

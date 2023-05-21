@@ -1,0 +1,41 @@
+.box{
+    width: 100%;
+    display: flex;
+    /* background-color: aquamarine; */
+}
+.fullbox2{
+    width: 25%;
+    margin: 10px;
+    /* background-color: aliceblue; */
+}
+.fullbox1{
+width: 75%;
+height: 745px;
+/* background-color: rgb(40, 77, 109); */
+}
+.fullboxhead{
+    height: 70px;
+    /* background-color: aqua; */
+    margin: 15px;
+    border-bottom: 1px solid;
+    display: flex; 
+}
+.fullboxbody{
+    height: 250px;
+    /* background-color: white; */
+    margin: 20px;
+    position: relative;
+    top: 200px;
+}
+.comingsoon{
+    font-size: 150px;
+    padding-left: 80px;
+    color: gainsboro;
+}
+.oopen{
+    position: absolute; 
+    top: 0;
+   right: 0;
+   z-index: 9;
+}
+

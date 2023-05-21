@@ -1,0 +1,12 @@
+.modalpoto{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    left: 100px;
+}
+.modalname{
+    /* padding-left: 70px; */
+    display: flex;
+    justify-content: center;
+}

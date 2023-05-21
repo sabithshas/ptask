@@ -1,0 +1,29 @@
+.navbar{
+    width: 75%;
+    height: 710px;
+    margin: 15px;
+    background-color: rgb(61, 61, 145);
+    border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: aliceblue;
+    /* padding: 35px; */
+   
+}
+.sidemenu{
+    width: 100px;
+    
+}
+.sidemain{
+    width: 80%;
+    border-bottom: solid;
+    padding-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.sidemain1{
+    width: 80%;
+    padding-top: 20px;
+    
+}
